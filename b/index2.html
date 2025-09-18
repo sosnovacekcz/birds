@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ptáci okolo nás</title>
+    <meta name="description" content="Objevte fascinující svět ptáků, kteří žijí v našem okolí.">
+    <meta name="author" content="Lovable">
+    <meta property="og:title" content="Ptáci okolo nás">
+    <meta property="og:description" content="Objevte fascinující svět ptáků, kteří žijí v našem okolí.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2acc7043-2b48-4bca-99a5-d6e28c5e007c/id-preview-bea1f861--03bc2f21-28b8-4d25-ab18-8d6cef0924d4.lovable.app-1754387840316.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@lovable_dev">
+    <meta name="twitter:image" content="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2acc7043-2b48-4bca-99a5-d6e28c5e007c/id-preview-bea1f861--03bc2f21-28b8-4d25-ab18-8d6cef0924d4.lovable.app-1754387840316.png">
+ 
+    <link rel="stylesheet" href="style.css">
+    <style>
+        #lovable-badge {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            width: 141px;
+            padding: 5px 13px;
+            background-color: #000;
+            color: #fff;
+            font-size: 12px;
+            border-radius: 5px;
+            font-family: sans-serif;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            z-index: 1000000;
+            text-transform: none !important;
+            font-feature-settings: normal !important;
+            font-weight: 400 !important;
+        }
+        .qr-code {
+            max-width: 150px;
+            margin: 1rem auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="root">
+        <div class="min-h-screen bg-gradient-sky">
+            <div class="bg-gradient-forest text-primary-foreground py-20 px-4">
+                <div class="container mx-auto text-center">
+                    <h1 class="text-5xl font-bold mb-6">🐦 Ptačí procházka Sosnovou</h1>
+                    <p class="text-xl text-primary-foreground/90 max-w-2xl mx-auto leading-relaxed">Objevte fascinující svět ptáků, kteří žijí v našem okolí. Každý druh má své unikátní vlastnosti, způsob života a místo v přírodě.</p>
+                </div>
+            </div>
+            <div class="container mx-auto px-4 py-16">
+                <div class="space-y-8">
+                    <div>
+                        <h3 class="text-xl font-semibold text-primary mb-2">Věnováno panu Ing. Jiřímu Vronskému</h3>
+                        <p class="text-sm text-muted-foreground leading-relaxed">Myšlenka oživit procházku naší obcí vznikla na jednom ze setkání členů spolku <a href="https://www.sosnovacek.cz" aria-label="Web spolku S.O.S.nova@czech z.s." class="text-primary hover:underline">S.O.S.nova@czech z.s.</a>. Věříme, že se pátrání po modelech drobných opeřenců, běžně se v našich zahradách a okolí vyskytujících, bude líbit hlavně dětem.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">Proč právě pan Ing. Jiří Vronský? Dlouholetý zastupitel, radní obce a výjimečná osobnost, člen mysliveckého spolku, soused, Jirka, přítel a milovník přírody, v lesích Sosnové strávil spoustu času. Kromě mysliveckých povinností a spoustě dalších aktivit se věnoval i fotografování, v kronikách obce a v <a href="https://www.sosnovacek.cz" aria-label="Sosnováček" class="text-primary hover:underline">Sosnováčku</a> jsou uchovány jeho fotografie a krásné edukativní články, kterými aktivně přispíval. Jsme moc rádi a děkujeme, že jsme se souhlasem paní Vronské a rodiny mohli některé z jeho článků a poznámek z rodinného archivu použít i na našem webu. ❤️</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">Zveme vás tedy na nenáročnou a příjemnou procházku obcí Sosnová, během které můžete pozorovat rozmanité druhy ptáků žijících v zahradách místních domů a jejich okolí. Ptáky, které zde uvidíte, si vybrali jako svůj domov stromy, keře a krmítka v soukromých zahradách. Není třeba vstupovat na pozemky, ani lézt přes ploty – všechny uvidíte z cesty nebo veřejně přístupných míst. Jaký ptáček se na zahradě u které stojíte nachází, snadno poznáte podle informační tabulky umístěné na plotu. Každá tabulka obsahuje QR kód, který vás přesměruje na webové stránky <a href="https://www.sosnovacek.cz" aria-label="Web Sosnováček" class="text-primary hover:underline">www.sosnovacek.cz</a>. Najdete zde například fotografie, zajímavosti ze života ptáků, odpovědi na otázky z informačních tabulek, a další aktuality.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">Další nápovědou je jednoduchá mapka Sosnové s barevnými body na velkých informačních tabulích, které jsou umístěny na několika křižovatkách na trase procházky Sosnovou. Cílem je přiblížit dětem i dospělým přírodu a ptactvo hravou formou a inspirovat k většímu vnímání okolí.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4 font-semibold">Prosíme o ohleduplnost – pozorujte přírodu potichu a respektujte soukromí obyvatel.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">V první fázi jsme pro vás připravili deset druhů. Své ploty k umístění informačních tabulek nabídli první nadšenci, ale tím to určitě nekončí. Již v tuto chvíli máme několik dalších zájemců, kteří se chtějí k tomuto nápadu připojit.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">Máte také zájem se přidat? Stačí se nám ozvat a „nabídnout svůj plot“ k instalaci informační tabulky a blízké okolí k umístění konkrétního ptáčka. K dispozici je jich ještě celá řada. Náklady s tímto spojené hradí spolek z dobrovolných příspěvků získaných při kulturních akcích nebo od sponzorů. Pokud jste se právě rozhodli pomoci nám nebo adoptovat svého ptáčka, skvělé, pojď do toho s námi! Členství není podmínkou spolupráce, stačí chuť a nadšení 😊.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4">Cítíš v srdci podporu, ale nemůžeš přijít přiložit ruku k dílu? I sponzorský dar nám udělá velkou radost! (Do zprávy pro příjemce můžeš napsat „dar spolku“.) Můžeš zadat měsíční platbu nebo přispět jednorázově nebo pravidelně – akce probíhají celoročně. Číslo účtu pro příspěvky: <strong>240 267 2570/2010</strong>.</p>
+                        <p class="text-sm text-muted-foreground leading-relaxed mt-4 font-semibold">Díky, že v tom jedeš s námi a krásný den!</p>
+                    </div>
+                    <div>
+                        <h2 class="text-3xl font-bold text-primary mb-4">Odpovědi na otázky z informačních tabulek</h2>
+                        <p class="text-sm text-muted-foreground leading-relaxed mb-4">… a je to tady, odpověděli jste správně? 😊</p>
+                        <dl class="space-y-4">
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Víš, čím se živí čáp?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… no přece hlavně žáby, myši, hraboši, krtci, hmyz a žížaly, někdy plazi, plži, ryby 🐸</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který dravý pták je v České republice největší?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… jasně že to je orel mořský s rozpětím křídel až 2 metry!! 🦅</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který pták si staví hnízdo na komíně?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… jak jednoduché, přece čáp bílý 🦢</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který dravý pták často létá nad Sosnovou?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… co takhle luňák? Poznáte ho podle ocasních per ve tvaru V. 🦇</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Znáš šest druhů sýkorek?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… sýkora koňadra, sýkora modřinka, sýkora babka, sýkora uhelníček, sýkora lužní, sýkora parukářka 🐦</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">O kterém ptákovi se zpívá v písničce „Prší, prší“?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… to ví každé malé dítě :), o kukačce 🎶</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který pták klade vejce do cizích hnízd?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… nikdo jiný, než kukačka 🥚</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Co patří ptáčkům v zimě do krmítka?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… semena – například slunečnice, proso, pšenice, mák, jablka, jeřabiny, vlašské ořechy, nesolené arašídy, ovesné vločky, tukové koule, hovězí lůj 🌻</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který pták léčí stromy?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… nejznámějším „lékařem stromů“ je datel a strakapoud – kdo by to nevěděl :) 🌳</dd>
+                            </div>
+                            <div>
+                                <dt class="text-sm font-semibold text-primary">Který pták pomáhá Krakonošovi?</dt>
+                                <dd class="text-sm text-muted-foreground leading-relaxed">… nádherná pohádka… všichni známe sojku :) 🦜</dd>
+                            </div>
+                        </dl>
+                    </div>
+                </div>
+                
+                <div id="ptaci-kontejner" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-16">
+                    </div>
+
+            </div>
+        </div>
+        <div id="lovable-badge">
+            Powered by Lovable
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
