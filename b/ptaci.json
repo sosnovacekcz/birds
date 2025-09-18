@@ -1,0 +1,32 @@
+[
+    {
+        "nazev": "Konipas bílý",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/konipas-gZ71SAOx.jpg",
+        "obrazekAlt": "Konipas bílý v přírodě",
+        "tagy": ["Štíhlý ptáček s dlouhým ocasem", "Neustále potřásá ocáskem"],
+        "popis": "Štíhlý ptáček s tenkým zobákem a dlouhým ocasem, kterého v naší obci potkáváme hojně. Typický je pro něj neustálý pohyb, většinou horlivě cupitá a potřásá ocáskem. Délka těla je 16,5 – 19 cm. Během letu často vydává jasné dvouslabičné „cilip“.",
+        "hnizdeni": "Hnízdí 2x ročně v různých výklencích pod střechami domů, na nosnících, pod mosty, na římsách, ve skládkách dřeva apod. Své hnízdo, postavené z mechu a trav, si vystýlá srstí, žíněmi a peřím.",
+        "potrava": "Jeho potravou je hmyz.",
+        "tip": "Konipas hnízdí také v polobudkách."
+    },
+    {
+        "nazev": "Vlaštovka obecná",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/vlastovka-DjB0pn5F.jpg",
+        "obrazekAlt": "Vlaštovka obecná v přírodě",
+        "tagy": ["Veselé švitoří", "Tažný pták"],
+        "popis": "Je tažný pták, který přilétá na jaře a v září odlétá do Afriky nebo do jižní Asie. Vlaštovky se před odletem do teplých krajů houfují a posedávají na elektrických drátech, kde vypadají jako elektrické korálky. Vlaštovky se věrně vrací na místo svého hnízdění, mohou žít až 16 let.",
+        "hnizdeni": "Svá hnízda ze směsi hlíny, stébel a slin lepí na stěny pod okapy a římsami lidských obydlí, ve stájích. Vlaštovka snáší 1 - 2x ročně až 6 bílých vajíček s červenohnědým skvrněním, vylíhnutá mláďata rodiče krmí zhruba 3 týdny.",
+        "potrava": "Vlaštovky jsou rychlé a obratné, jedna vlaštovka dokáže za léto pochytat až půl milionu kusů hmyzu. Vesele švitoří a před deštěm létají nízko nad zemí.",
+        "tip": "Pokud chceme, aby se k vám vlaštovky vracely, pomozte jim instalací nasákavé podložky, o kterou si mohou své hnízdo opřít. Pod hnízda (cca 30 – 40 cm) umístěte destičky zachycující trus, zabráníte tím nepříjemné znečištění fasády. Dalším řešením je vyvěšením umělých hnízd. Ale pozor, veškeré úpravy si ponechejte až na konec září, kdy vlaštovky odlétají. Při hnízdění je nerušíme!"
+    },
+    {
+        "nazev": "Puštík obecný",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekAlt": "Puštík obecný v přírodě",
+        "tagy": ["Nejpočetnější sova", "Vynikající sluch"],
+        "popis": "Puštík je naše nejpočetnější sova díky tomu, že je velmi přizpůsobivý, jak při volbě místa pro hnízdění, tak při výběru a složení potravy.",
+        "hnizdeni": "Kromě lesů hnízdí i v městských parcích, hřbitovech, ve starých alejích, nebo v zahradách se starými stromy. Tvoří páry, které spolu žijí dlouhodobě. Na vejcích sedí pouze samička. Když mláďata opouštějí hnízdo, neumí ještě dobře létat, posedávají ve větvích, kde o ně rodiče dalších pár týdnů pečují. Kdybyste je zahlédli, což je velmi vzácné, vypadají jako klubka vlny.",
+        "potrava": "Potravou mu jsou převážně drobní hlodavci (zejména hraboši a myšice), ale nepohrdne ani ptáky, žábami, hmyzem a žížalami.",
+        "tip": "Nelikvidujte ze zahrady staré stromy s prostornými dutinami, nebo jim připravte velkou hnízdní budku s vletovým otvorem o průměru 12 cm."
+    }
+]
