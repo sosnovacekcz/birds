@@ -28,5 +28,68 @@
         "hnizdeni": "Kromě lesů hnízdí i v městských parcích, hřbitovech, ve starých alejích, nebo v zahradách se starými stromy. Tvoří páry, které spolu žijí dlouhodobě. Na vejcích sedí pouze samička. Když mláďata opouštějí hnízdo, neumí ještě dobře létat, posedávají ve větvích, kde o ně rodiče dalších pár týdnů pečují. Kdybyste je zahlédli, což je velmi vzácné, vypadají jako klubka vlny.",
         "potrava": "Potravou mu jsou převážně drobní hlodavci (zejména hraboši a myšice), ale nepohrdne ani ptáky, žábami, hmyzem a žížalami.",
         "tip": "Nelikvidujte ze zahrady staré stromy s prostornými dutinami, nebo jim připravte velkou hnízdní budku s vletovým otvorem o průměru 12 cm."
+    },
+    {
+        "nazev": "Strakapoud",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/strakapoud-BjekpBs9.jpg",
+        "obrazekAlt": "Strakapoud v přírodě",
+        "tagy": ["Doktor stromů", "Zimní návštěvník krmítek"],
+        "popis": "S tímto dalším obyvatelem našich lesů, zahrad a v zimě i krmítek máme drobný problém. Nabízí se zde nabídka spolupráce. Nebyli jsme si při výběru tohoto ptáčka jistí, jestli se jedná o strakapouda velkého, prostředního nebo jižního. Úplně nejméně si myslíme, že by mohlo jít o strakapouda malého. Ale nic není nemožné. Podaří se někomu z vás ho vyfotografovat, například na krmítku, kam s oblibou v zimních měsících zalétá? Poradíme se pak s odborníkem na ornitologii, o jaký druh vlastně jde.",
+        "hnizdeni": "Pro tohoto „doktora stromů“ jsou ke spokojenému hnízdění nepostradatelné staré stromy a jejich dutiny. Strakapoud umí udělat také paseku třeba na polystyrenovém zateplení staveb. Fasádu může poškozovat nejen hnízděním, ale i hledáním hmyzí potravy. Při hledání potravy ho tak trochu mate dobrá rezonance polystyrenového obkladu. Rozhodně ho tady nechceme hanit, věříme, že když má k hnízdění dostatečné přirozené podmínky, zvolí si raději přírodnější cestu. Také proto si staré stromy v blízkosti lidských domovů zaslouží naši ochranu a péči.",
+        "potrava": "Živí se hmyzem, larvami, semeny šišek."
+    },
+    {
+        "nazev": "Hrdlička",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekAlt": "Hrdlička v přírodě",
+        "tagy": ["Symbol lásky a míru", "Pokojné vrkání"],
+        "popis": "Záměrně zde uvádíme jen jméno rodové. V jedné ze zahrad naší stezky uvidíte příslušníky hrdliček v bílé barvě. Majitelka zahrady si tento druh zvolila, protože právě on je jejím častým návštěvníkem. Bílá hrdlička v nás probouzí milé pocity, potkáváme se s ní v pohádkách, na svatbách, je symbol lásky, míru a věrnosti. Ve volné přírodě by ale byla díky svému zbarvení velmi zranitelná. Nejspíš patří místnímu chovateli, holubáři. Přirozenějším druhem hrdličky je hrdlička zahradní, na kterou se můžete brzy těšit na dalším stanovišti.",
+        "hnizdeni": "Hrdličky si staví hnízda v korunách stromů, na keřích nebo jiných vyvýšených místech. Hnízdo je obvykle jednoduché, tvořené větvičkami.",
+        "potrava": "Živí se převážně semeny, obilím a drobnými plody."
+    },
+    {
+        "nazev": "Sýkora",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/sykora-BJ6ESIs6.jpg",
+        "obrazekAlt": "Sýkora v přírodě",
+        "tagy": ["Pestré zbarvení", "Čilí akrobaté"],
+        "popis": "Sýkorek je celá řada, modřinka, parukářka, koňadra, babka, lužní, uhelníček. Jsou druhy, které poznáme na první pohled. Nikdo si jistě nesplete sýkorku modřinku s například s koňadrou, pokud je alespoň jednou viděl. U takové sýkorky babky a sýkorky lužní bychom si tak jistí nebyli. Jsou téměř k nerozeznání.",
+        "hnizdeni": "Modřinky hnízdí v dutinách stromů, budkách nebo jiných škvírách. Mají velmi početné snůšky, často 7 – 13 vajec. Koňadra hnízdí podobně, ale může využít i poštovní schránky nebo polystyrenové zateplení. Parukářka a babka preferují přirozené dutiny, babka si dutinu vytesává. Lužní a uhelníček hnízdí vzácněji v zahradách, uhelníček někdy v zemních děrách.",
+        "potrava": "Loví hmyz, pavoukovce, housenky a mšice. Milují semena, na krmítku preferují tukové směsi a slunečnicová semínka. Uhelníček je užitečný při eliminaci lesních škůdců, v zimě miluje semena smrku a jedle."
+    },
+    {
+        "nazev": "Straka obecná",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekAlt": "Straka obecná v přírodě",
+        "tagy": ["Výrazné zbarvení", "Vysoká inteligence"],
+        "popis": "Poměrně velký pták, délka těla je 40 – 50 cm, kdy téměř polovinu tvoří ocas. Straka má výrazně bílé břicho a lopatky, zbytek pokrývá většinou černá, která se leskne do odstínů zelené na ocase a dofialova na těle. Straka, stejně jako její příbuzní z řádu krkavcovitých, se vyznačuje všestranností a vysokou inteligencí.",
+        "hnizdeni": "Její velká, jakoby rozcuchaná hnízda můžeme spatřit v korunách vysokých stromů, hlavně když opadá listí. Vyskytuje se v otevřené krajině s lesíky, poli, ale i ve městech, na sídlištích a v parcích.",
+        "potrava": "Je to všežravec, občas vybere vejce z hnízda například kosa, ale v přírodě se toto děje přirozeně. Vyhledává živočišnou potravu v popelnicích, na krmítkách může být neurvalá."
+    },
+    {
+        "nazev": "Kos černý",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/kos-CM2A_PSe.jpg",
+        "obrazekAlt": "Kos černý v přírodě",
+        "tagy": ["Lesklé černé peří", "Oranžový zobáček"],
+        "popis": "Kosa snad pozná každý. Úplně typický ptáček našich zahrad, parků, lesíků, měst. Jeho lesklé černé peří a oranžový zobáček nenechá nikoho na pochybách. Jeho partnerka je ve zbarvení umírněnější, méně nápadná.",
+        "hnizdeni": "Je velmi nápaditý ve výběru místa k hnízdění. Klasicky hnízdí v korunách stromů a v keřích, ale zahnízdí často na hromadě dřeva, na trámech a na balkonech. Své hnízdo použije vždy jen jednou, což se zdá pro někoho nepraktické, když hnízdí až čtyřikrát do roka.",
+        "potrava": "Klidně si poskakuje po trávníku a sbírá žížaly, pochutnává si na bobulích ovocných keřů, nepohrdne spadanými jablky, líbí se mu zralé slunečnice. Na krmítku je velmi vděčný strávník. A takové tukové kouli rozhodně taky neodolá."
+    },
+    {
+        "nazev": "Červenka obecná",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/cervenka-Bfy02KXM.jpg",
+        "obrazekAlt": "Červenka obecná v přírodě",
+        "tagy": ["Malý ptáček", "Rezavočervené čelo a hruď"],
+        "popis": "Malý ptáček, délka těla 12,5 – 14 cm. Tělíčko má zavalité, nenápadně zbarvené dohněda, čelo a hruď jsou rezavočervené. Vyskytuje se v lesích, houštinách, parcích poblíž lidských sídel.",
+        "hnizdeni": "Hnízda si staví dobře ukrytá na zemi v břehu cest, potoků, pod keři, pod pařezy, pod trsy trav apod. Mláďata vyvádí 2x do roka.",
+        "potrava": "V době hnízdění se živí výhradně hmyzem a pavoukovci, které loví na zemi za neustálého poskakování, natřásání křídly i ocasem. Na krmítku si červenky pochutnají na měkkém a tučném krmivu, chutnají jim i semínka."
+    },
+    {
+        "nazev": "Hýl obecný",
+        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekAlt": "Hýl obecný v přírodě",
+        "tagy": ["Zavalitý ptáček", "Melodický zpěv"],
+        "popis": "Hýl je původně lesní pták, který postupně osídloval i další biotopy, kde rostou zejména jehličnaté stromy, nebo smíšené porosty, jako jsou parky, hřbitovy, sady a větší zahrady. Zavalitý ptáček s délkou těla kolem 16 cm.",
+        "hnizdeni": "Hnízdí nízko nad zemí, nejčastěji ve smrkovém mlází, 1 – 2x ročně. Hnízdo si staví ze smrkových a březových větviček, nakonec ho vystele kořínky a mechem.",
+        "potrava": "Živí se převážně rostlinnou potravou, semeny bylin (např. kopřiva), v zimě semeny keřů a stromů, na jaře pupeny."
     }
 ]
