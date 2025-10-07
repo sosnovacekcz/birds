@@ -24,7 +24,7 @@
     {
 		"id": "b3",
         "nazev": "Puštík obecný",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/pustik_xkub_uaphgw.jpg",
         "obrazekAlt": "Puštík obecný v přírodě",
         "tagy": ["Nejpočetnější sova", "Vynikající sluch"],
         "popis": "Puštík je naše nejpočetnější sova díky tomu, že je velmi přizpůsobivý, jak při volbě místa pro hnízdění, tak při výběru a složení potravy.",
@@ -45,7 +45,7 @@
     {
 		"id": "b5",
         "nazev": "Hrdlička",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759857336/hrdlicka_xkubcz_dlp4cx.png",
         "obrazekAlt": "Hrdlička v přírodě",
         "tagy": ["Symbol lásky a míru", "Pokojné vrkání"],
         "popis": "Záměrně zde uvádíme jen jméno rodové. V jedné ze zahrad naší stezky uvidíte příslušníky hrdliček v bílé barvě. Majitelka zahrady si tento druh zvolila, protože právě on je jejím častým návštěvníkem. Bílá hrdlička v nás probouzí milé pocity, potkáváme se s ní v pohádkách, na svatbách, je symbol lásky, míru a věrnosti. Ve volné přírodě by ale byla díky svému zbarvení velmi zranitelná. Nejspíš patří místnímu chovateli, holubáři. Přirozenějším druhem hrdličky je hrdlička zahradní, na kterou se můžete brzy těšit na dalším stanovišti.",
@@ -95,7 +95,7 @@
     {
 		"id": "b10",
         "nazev": "Hýl obecný",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759857336/hyl_obecny_xkub_vsbcva.jpg",
         "obrazekAlt": "Hýl obecný v přírodě",
         "tagy": ["Zavalitý ptáček", "Melodický zpěv"],
         "popis": "Hýl je původně lesní pták, který postupně osídloval i další biotopy, kde rostou zejména jehličnaté stromy, nebo smíšené porosty, jako jsou parky, hřbitovy, sady a větší zahrady. Zavalitý ptáček s délkou těla kolem 16 cm.",
