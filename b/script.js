@@ -26,8 +26,9 @@ $(document).ready(function() {
             }
 
             // Sestavení kompletní HTML "karty" pro jednoho ptáka
+            // ZDE JE ZMĚNA: Přidán atribut id="${ptak.id}"
             const kartaHtml = `
-                <div class="rounded-lg border text-card-foreground shadow-sm overflow-hidden shadow-card hover:shadow-hover transition-all duration-300 hover:-translate-y-1 bg-card">
+                <div id="${ptak.id}" class="rounded-lg border text-card-foreground shadow-sm overflow-hidden shadow-card hover:shadow-hover transition-all duration-300 hover:-translate-y-1 bg-card">
                     <div class="aspect-square overflow-hidden">
                         <img src="${ptak.obrazekSrc}" alt="${ptak.obrazekAlt}" class="w-full h-full object-cover transition-transform duration-300 hover:scale-105">
                     </div>
@@ -55,6 +56,22 @@ $(document).ready(function() {
             // Přidání vytvořené karty do kontejneru na stránce
             kontejner.append(kartaHtml);
         });
+
+        // --- NOVÁ ČÁST PRO SCROLLOVÁNÍ ---
+        // Zkontroluje, zda je v URL přítomný hash (např. #b1)
+        if (window.location.hash) {
+            const targetId = window.location.hash; // např. "#b1"
+            const targetElement = $(targetId);
+
+            // Pokud element s daným ID na stránce existuje
+            if (targetElement.length) {
+                // Plynule posune stránku na daný element
+                $('html, body').animate({
+                    scrollTop: targetElement.offset().top - 20 // -20px pro malý odstup od horního okraje
+                }, 800); // 800ms je rychlost animace
+            }
+        }
+        
     }).fail(function() {
         // Vypíše chybovou hlášku, pokud se soubor nepodaří načíst
         $('#ptaci-kontejner').html('<p style="color: red; text-align: center;">Nepodařilo se načíst data o ptácích. Zkontrolujte prosím soubor ptaci.json a jeho umístění.</p>');
