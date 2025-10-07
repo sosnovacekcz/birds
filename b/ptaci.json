@@ -1,5 +1,6 @@
 [
-    {
+    {   
+		"id": "b1",
         "nazev": "Konipas bílý",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/konipas-gZ71SAOx.jpg",
         "obrazekAlt": "Konipas bílý v přírodě",
@@ -10,6 +11,7 @@
         "tip": "Konipas hnízdí také v polobudkách."
     },
     {
+		"id": "b2",
         "nazev": "Vlaštovka obecná",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/vlastovka-DjB0pn5F.jpg",
         "obrazekAlt": "Vlaštovka obecná v přírodě",
@@ -20,6 +22,7 @@
         "tip": "Pokud chceme, aby se k vám vlaštovky vracely, pomozte jim instalací nasákavé podložky, o kterou si mohou své hnízdo opřít. Pod hnízda (cca 30 – 40 cm) umístěte destičky zachycující trus, zabráníte tím nepříjemné znečištění fasády. Dalším řešením je vyvěšením umělých hnízd. Ale pozor, veškeré úpravy si ponechejte až na konec září, kdy vlaštovky odlétají. Při hnízdění je nerušíme!"
     },
     {
+		"id": "b3",
         "nazev": "Puštík obecný",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
         "obrazekAlt": "Puštík obecný v přírodě",
@@ -30,6 +33,7 @@
         "tip": "Nelikvidujte ze zahrady staré stromy s prostornými dutinami, nebo jim připravte velkou hnízdní budku s vletovým otvorem o průměru 12 cm."
     },
     {
+		"id": "b4",
         "nazev": "Strakapoud",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/strakapoud-BjekpBs9.jpg",
         "obrazekAlt": "Strakapoud v přírodě",
@@ -39,6 +43,7 @@
         "potrava": "Živí se hmyzem, larvami, semeny šišek."
     },
     {
+		"id": "b5",
         "nazev": "Hrdlička",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
         "obrazekAlt": "Hrdlička v přírodě",
@@ -48,6 +53,7 @@
         "potrava": "Živí se převážně semeny, obilím a drobnými plody."
     },
     {
+		"id": "b6",
         "nazev": "Sýkora",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/sykora-BJ6ESIs6.jpg",
         "obrazekAlt": "Sýkora v přírodě",
@@ -57,6 +63,7 @@
         "potrava": "Loví hmyz, pavoukovce, housenky a mšice. Milují semena, na krmítku preferují tukové směsi a slunečnicová semínka. Uhelníček je užitečný při eliminaci lesních škůdců, v zimě miluje semena smrku a jedle."
     },
     {
+		"id": "b7",
         "nazev": "Straka obecná",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
         "obrazekAlt": "Straka obecná v přírodě",
@@ -66,6 +73,7 @@
         "potrava": "Je to všežravec, občas vybere vejce z hnízda například kosa, ale v přírodě se toto děje přirozeně. Vyhledává živočišnou potravu v popelnicích, na krmítkách může být neurvalá."
     },
     {
+		"id": "b8",
         "nazev": "Kos černý",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/kos-CM2A_PSe.jpg",
         "obrazekAlt": "Kos černý v přírodě",
@@ -75,6 +83,7 @@
         "potrava": "Klidně si poskakuje po trávníku a sbírá žížaly, pochutnává si na bobulích ovocných keřů, nepohrdne spadanými jablky, líbí se mu zralé slunečnice. Na krmítku je velmi vděčný strávník. A takové tukové kouli rozhodně taky neodolá."
     },
     {
+		"id": "b9",
         "nazev": "Červenka obecná",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/cervenka-Bfy02KXM.jpg",
         "obrazekAlt": "Červenka obecná v přírodě",
@@ -84,6 +93,7 @@
         "potrava": "V době hnízdění se živí výhradně hmyzem a pavoukovci, které loví na zemi za neustálého poskakování, natřásání křídly i ocasem. Na krmítku si červenky pochutnají na měkkém a tučném krmivu, chutnají jim i semínka."
     },
     {
+		"id": "b10",
         "nazev": "Hýl obecný",
         "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/placeholder.jpg",
         "obrazekAlt": "Hýl obecný v přírodě",
