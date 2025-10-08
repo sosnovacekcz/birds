@@ -2,7 +2,7 @@
     {   
 		"id": "b1",
         "nazev": "Konipas bílý",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/konipas-gZ71SAOx.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905487/vlastovka_obecna_xkub_ir2g3z.jpg",
         "obrazekAlt": "Konipas bílý v přírodě",
         "tagy": ["Štíhlý ptáček s dlouhým ocasem", "Neustále potřásá ocáskem"],
         "popis": "Štíhlý ptáček s tenkým zobákem a dlouhým ocasem, kterého v naší obci potkáváme hojně. Typický je pro něj neustálý pohyb, většinou horlivě cupitá a potřásá ocáskem. Délka těla je 16,5 – 19 cm. Během letu často vydává jasné dvouslabičné „cilip“.",
@@ -13,7 +13,7 @@
     {
 		"id": "b2",
         "nazev": "Vlaštovka obecná",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/vlastovka-DjB0pn5F.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905487/vlastovka_obecna_xkub_ir2g3z.jpg",
         "obrazekAlt": "Vlaštovka obecná v přírodě",
         "tagy": ["Veselé švitoří", "Tažný pták"],
         "popis": "Je tažný pták, který přilétá na jaře a v září odlétá do Afriky nebo do jižní Asie. Vlaštovky se před odletem do teplých krajů houfují a posedávají na elektrických drátech, kde vypadají jako elektrické korálky. Vlaštovky se věrně vrací na místo svého hnízdění, mohou žít až 16 let.",
@@ -35,7 +35,7 @@
     {
 		"id": "b4",
         "nazev": "Strakapoud",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/strakapoud-BjekpBs9.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905488/strakapoud_xkub_tesv6d.jpg",
         "obrazekAlt": "Strakapoud v přírodě",
         "tagy": ["Doktor stromů", "Zimní návštěvník krmítek"],
         "popis": "S tímto dalším obyvatelem našich lesů, zahrad a v zimě i krmítek máme drobný problém. Nabízí se zde nabídka spolupráce. Nebyli jsme si při výběru tohoto ptáčka jistí, jestli se jedná o strakapouda velkého, prostředního nebo jižního. Úplně nejméně si myslíme, že by mohlo jít o strakapouda malého. Ale nic není nemožné. Podaří se někomu z vás ho vyfotografovat, například na krmítku, kam s oblibou v zimních měsících zalétá? Poradíme se pak s odborníkem na ornitologii, o jaký druh vlastně jde.",
@@ -55,7 +55,7 @@
     {
 		"id": "b6",
         "nazev": "Sýkora",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/sykora-BJ6ESIs6.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905487/sykora_modrinka_xkub_zzxs4g.jpg",
         "obrazekAlt": "Sýkora v přírodě",
         "tagy": ["Pestré zbarvení", "Čilí akrobaté"],
         "popis": "Sýkorek je celá řada, modřinka, parukářka, koňadra, babka, lužní, uhelníček. Jsou druhy, které poznáme na první pohled. Nikdo si jistě nesplete sýkorku modřinku s například s koňadrou, pokud je alespoň jednou viděl. U takové sýkorky babky a sýkorky lužní bychom si tak jistí nebyli. Jsou téměř k nerozeznání.",
@@ -75,7 +75,7 @@
     {
 		"id": "b8",
         "nazev": "Kos černý",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/kos-CM2A_PSe.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905487/kos_xkub_h3z2rh.jpg",
         "obrazekAlt": "Kos černý v přírodě",
         "tagy": ["Lesklé černé peří", "Oranžový zobáček"],
         "popis": "Kosa snad pozná každý. Úplně typický ptáček našich zahrad, parků, lesíků, měst. Jeho lesklé černé peří a oranžový zobáček nenechá nikoho na pochybách. Jeho partnerka je ve zbarvení umírněnější, méně nápadná.",
@@ -85,7 +85,7 @@
     {
 		"id": "b9",
         "nazev": "Červenka obecná",
-        "obrazekSrc": "https://birdie-bites-and-nests.lovable.app/assets/cervenka-Bfy02KXM.jpg",
+        "obrazekSrc": "https://res.cloudinary.com/daygufloz/image/upload/v1759905634/cervenka_xkub_wqq2jm.jpg",
         "obrazekAlt": "Červenka obecná v přírodě",
         "tagy": ["Malý ptáček", "Rezavočervené čelo a hruď"],
         "popis": "Malý ptáček, délka těla 12,5 – 14 cm. Tělíčko má zavalité, nenápadně zbarvené dohněda, čelo a hruď jsou rezavočervené. Vyskytuje se v lesích, houštinách, parcích poblíž lidských sídel.",
